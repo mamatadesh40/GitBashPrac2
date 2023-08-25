@@ -39,4 +39,4 @@ public class DesktopAutomation {
 		scr.click(data3);
 	}
 
-}
+}//Pull practice using gitbash cmd
